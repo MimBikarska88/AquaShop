@@ -1,0 +1,14 @@
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Mimi\Downloads\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Mimi\Downloads\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
